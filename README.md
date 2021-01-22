@@ -1,4 +1,2 @@
-# CSS
-&lt;실습&gt;김버그의 CSS는 재밌다 <br/>
-CSS-I-learned
+# CSS-I-learned
 소스코드 제공 : 구름에듀 김버그의 CSS는 재밌다
